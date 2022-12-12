@@ -1,0 +1,36 @@
+.EscenaFondo12 {
+    
+    display: grid;
+    place-items: center;
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .Anm3{
+    cursor: pointer;
+    border-radius: 50px;
+  }
+
+  .Esc12x {
+    width: 1px;
+    height: 1px;
+    right: 640px;
+    bottom: 240px;
+    animation: 1.5s a14 infinite forwards;
+  }
+  
+  @keyframes a14 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+  
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }

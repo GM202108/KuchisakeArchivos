@@ -1,0 +1,207 @@
+/* Escena1 */
+.Puertaizquierda {
+    animation: 1.5s a1 infinite forwards;
+  }
+
+  @keyframes a1 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+  .Puertaderecha {
+    animation: 1.5s a2 infinite forwards;
+  }
+
+  @keyframes a2 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+/* Escena2 */
+.PersonajeEspaldaPL {
+    width: 1px;
+    height: 1px;
+    bottom: 50px;
+    left: 650px;
+    animation: 1.5s a3 infinite forwards;
+  }
+
+  @keyframes a3 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+  .PuertaEsc2 {
+    animation: 1.5s a4 infinite forwards;
+  }
+
+  @keyframes a4 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+/* Escena3 */
+.SMCarteroPL{
+    width: 1px;
+    height: 1px;
+    left:110px;
+    bottom: 30px;
+    animation: 1.5s a5 infinite forwards;
+  }
+
+  @keyframes a5 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+  .SamuraiFrentePL {
+    width: 1px;
+    height: 1px;
+    left:225px;
+    bottom: 15px;
+    animation: 1.5s a6 infinite forwards;
+  }
+
+  @keyframes a6 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+/* Escena4 - No tiene resaltador */
+
+/* Escena5 */
+.Frente5PL {
+    width: 1px;
+    height: 1px;
+    left:135px;
+    bottom: 15px;
+    animation: 1.5s a7 infinite forwards;
+  }
+
+  @keyframes a7 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+/* Escena6 */
+
+/* Escena7 */
+.SamuraiLDPL{
+    width: 1px;
+    height: 1px;
+    left:510px;
+    bottom: 15px;
+    animation: 1.5s a9 infinite forwards;
+  }
+
+  @keyframes a9 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+  .KuchisakeLDPL {
+    width: 1px;
+    height: 1px;
+    right:550px;
+    bottom: 15px;
+    animation: 1.5s a10 infinite forwards;
+  }
+
+  @keyframes a10 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+
+/* Escena8 */
+.DetrasOEsc8PL {
+    width: 1px;
+    height: 1px;
+    right: 570px;
+    bottom: 15px;
+    animation: 1.5s a11 infinite forwards;
+  }
+
+  @keyframes a11 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+/* Escena9 - No tiene resaltador */
+

@@ -1,0 +1,16 @@
+.EscenaFondo10 {
+    display: grid;
+    place-items: center;
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .Anm{
+    cursor: pointer;
+    border-radius: 50px;
+  }
+
+  

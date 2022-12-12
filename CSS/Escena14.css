@@ -1,0 +1,38 @@
+.EscenaFondo14 {
+    background: url(../Imagenes/IMG-Escenas/FondoEsc14.png);
+    display: grid;
+    place-items: center;
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .Anm5{
+    cursor: pointer;
+    border-radius: 50px;
+    right: 0px;
+    bottom: 0px;
+  }
+
+  .Esc14x {
+    width: 1px;
+    height: 1px;
+    right: 260px;
+    bottom: 240px;
+    animation: 1.5s a17 infinite forwards;
+  }
+  
+  @keyframes a17 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+  
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }

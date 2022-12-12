@@ -1,0 +1,22 @@
+/* Escena10 */
+.Esc10x {
+    width: 1px;
+    height: 1px;
+    right: 635px;
+    bottom: 15px;
+    animation: 1.5s a12 infinite forwards;
+  }
+  
+  @keyframes a12 {
+    0%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+    50%{
+  
+        box-shadow: 0px 0px 26px 18px #ffffff;
+    }
+    100%{
+        box-shadow: 0px 0px -1px 0px #ffffff;
+    }
+  }
+

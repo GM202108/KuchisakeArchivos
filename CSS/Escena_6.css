@@ -1,0 +1,95 @@
+.EscenaFondo6 {
+    display: grid;
+    place-items: center;
+    position: relative;
+    background: url(../Imagenes/IMG-Escenas/EscenaFondo6.png);
+    width: 1280px;
+    height: 612px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+.Anm8{
+    bottom: 0px;
+    right: 0px;
+    cursor: pointer;
+}
+
+.Esc6x {
+  width: 1px;
+  height: 1px;
+  right: 260px;
+  bottom: 240px;
+  animation: 1.5s a20 infinite forwards;
+}
+
+
+@keyframes a20 {
+  0%{
+      box-shadow: 0px 0px -1px 0px #ffffff;
+  }
+  50%{
+
+      box-shadow: 0px 0px 26px 18px #ffffff;
+  }
+  100%{
+      box-shadow: 0px 0px -1px 0px #ffffff;
+  }
+}
+
+  .EscenaFondo7 {
+    display: grid;
+    place-items: center;
+    position: relative;
+    background: url(../Imagenes/IMG-Escenas/EscenaFondo7.png);
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .SamuraiLD{
+    bottom: -100px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.KuchisakeLD{
+    bottom: -100px;
+    right: 100px;
+    cursor: pointer;
+}
+
+.EscenaFondo8 {
+    display: grid;
+    place-items: center;
+    position: relative;
+    background: url(../Imagenes/IMG-Escenas/EscenaFondo8.png);
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .DetrasOEsc8{
+    bottom: -100px;
+    right: 100px;
+    cursor: pointer;
+  }
+
+  .Nubes{
+    top: 0%;
+    animation: Nubes 10s linear infinite;
+  }
+
+  @keyframes Nubes {
+    from{
+        left: -1300px;
+    }
+    to{
+       left: 1501px;
+    }
+  }
+
+ 
+

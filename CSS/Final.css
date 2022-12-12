@@ -1,0 +1,28 @@
+.EscenaFondoFinal {
+    background-color: #500017;
+  
+    display: grid;
+    place-items: center;
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+
+  .AnmFinal{
+    border-radius: 50px;
+    right: 340px;
+    bottom: 280px;
+    color: rgb(95, 0, 0);
+    
+  }
+
+  .AnmFinal2{
+    border-radius: 50px;
+    right: 340px;
+    bottom: 380px;
+    color: rgb(95, 0, 0);
+    font-size: 50px;
+    
+  }
